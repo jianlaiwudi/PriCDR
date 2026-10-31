@@ -1,0 +1,9 @@
+# Versions already installed in the current Python 3.14 environment are recorded
+# in LOCAL_ENVIRONMENT.txt. These are the direct imports required by upstream.
+torch
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
+tqdm
